@@ -1,0 +1,14 @@
+title: "Your Name"
+description: "Academic personal website"
+url: "https://USERNAME.github.io"
+baseurl: ""
+
+author:
+  name: "Your Name"
+  email: "your.email@example.com"
+  affiliation: "Your University / Lab"
+
+markdown: kramdown
+theme: null
+
+plugins: []
