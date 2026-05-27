@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# Your Name
+# Bảo-Huy Nguyễn
 
 <div class="profile">
   <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Your Name">
