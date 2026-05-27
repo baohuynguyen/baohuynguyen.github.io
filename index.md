@@ -6,7 +6,7 @@ title: About
 # Bảo-Huy Nguyễn
 
 <div class="profile">
-  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Your Name">
+  <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Bảo-Huy Nguyễn">
 
   <div>
     <p class="meta">
@@ -27,7 +27,7 @@ title: About
     <p>
       Email: <a href="mailto:huy.nguyenbao@hust.edu.vn">huy.nguyenbao@hust.edu.vn</a><br>
       Email: <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
-      Google Scholar: <a href="#">(https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)</a><br>
+      Google Scholar: <a href="[#](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)">[Profile]</a><br>
     </p>
   </div>
 </div>
