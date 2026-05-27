@@ -10,21 +10,24 @@ title: About
 
   <div>
     <p class="meta">
-      PhD Student / Researcher<br>
-      Department of Computer Science<br>
-      Your University
+      Lecturer <br>
+      Control Technique and Innovation Lab. for Electric Vehicles (CTI Lab4EV) <br>
+      Department of Automation Engineering <br>
+      School of Electrical and Electronic Engineering <br>
+      Hanoi University of Science and Technology
     </p>
 
     <p>
-      I am a researcher interested in machine learning, natural language processing,
-      trustworthy AI, and human-centered computing.
+      I work at the intersection of academic research, industrial R&D, and consultancy, specializing in transportation electrification and power systems with inverter-based resources. My expertise lies in modeling, control, and energy management of electric vehicles and modern power systems—particularly those with high penetration of power electronics.
+    </p>
+    <p>
+    Beyond publishing in international peer-reviewed journals and conferences, I have led and contributed to R&D and consultancy projects with organizations such as the UNDP, World Bank, EVN (Vietnam Electricity), and ATS (Applied Technical Systems JSC). These collaborations have focused on practical, scalable solutions for energy transition and grid modernization.
     </p>
 
     <p>
-      Email: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-      Google Scholar: <a href="#">Profile</a><br>
-      ORCID: <a href="#">Profile</a><br>
-      GitHub: <a href="#">Profile</a>
+      Email: <a href="mailto:huy.nguyenbao@hust.edu.vn">huy.nguyenbao@hust.edu.vn</a><br>
+      Email: <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
+      Google Scholar: <a href="#">(https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)</a><br>
     </p>
   </div>
 </div>
