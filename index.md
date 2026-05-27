@@ -14,7 +14,7 @@ title: About
       Control Technique and Innovation Lab. for Electric Vehicles (CTI Lab4EV) <br>
       Department of Automation Engineering <br>
       School of Electrical and Electronic Engineering <br>
-      Hanoi University of Science and Technology
+      Hanoi University of Science and Technology (HUST)
     </p>
 
     <p>
@@ -25,8 +25,8 @@ title: About
     </p>
 
     <p>
-      Email: <a href="mailto:huy.nguyenbao@hust.edu.vn">huy.nguyenbao@hust.edu.vn</a><br>
-      Email: <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
+      Email at HUST: <a href="mailto:huy.nguyenbao@hust.edu.vn">huy.nguyenbao@hust.edu.vn</a><br>
+      Email (personal): <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
       Google Scholar: <a href="[#](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)">[Profile]</a><br>
     </p>
   </div>
