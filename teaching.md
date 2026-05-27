@@ -17,7 +17,6 @@ Mã học phần: EE2021
 
 <ul>
   <li>
-    Lecture 1:
     <a href="{{ '/assets/files/teaching/Baigiang_LTM1_BHN.pdf' | relative_url }}" target="_blank" rel="noopener">
       Slides bài giảng LTM1
     </a>
