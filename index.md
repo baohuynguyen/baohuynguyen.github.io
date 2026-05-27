@@ -27,7 +27,7 @@ title: About
     <p>
       Email at HUST: <a href="mailto:huy.nguyenbao@hust.edu.vn">huy.nguyenbao@hust.edu.vn</a><br>
       Email (personal): <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
-      Google Scholar: <a href="[https://scholar.google.com/citations?user=abc123XYZ](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)" target="_blank" rel="noopener">Profile</a>
+      Google Scholar: <a href="[https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)" target="_blank" rel="noopener">Profile</a>
     </p>
   </div>
 </div>
