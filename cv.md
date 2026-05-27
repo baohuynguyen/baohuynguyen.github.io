@@ -6,7 +6,7 @@ permalink: /cv/
 
 # CV
 
-[Download CV PDF]({{ '/assets/files/cv.pdf' | relative_url }})
+[Download CV PDF]({{ '/assets/files/BaoHuyCV.pdf' | relative_url }})
 
 ## Education
 
