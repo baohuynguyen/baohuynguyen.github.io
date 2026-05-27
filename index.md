@@ -25,8 +25,8 @@ title: About
     </p>
 
     <p>
-      Email at HUST: <a href="mailto:huy.nguyenbao@hust.edu.vn">huy.nguyenbao@hust.edu.vn</a><br>
-      Email (personal): <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
+      HUST email (more work): <a href="mailto:huy.nguyenbao@hust.edu.vn">huy.nguyenbao@hust.edu.vn</a><br>
+      IEEE email (more personal): <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
       Google Scholar: <a href="https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en" target="_blank" rel="noopener">https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en</a><br>
       LinkedIn: <a href="https://www.linkedin.com/in/nguyenbaohuy/" target="_blank" rel="noopener">https://www.linkedin.com/in/nguyenbaohuy/</a>
     </p>
