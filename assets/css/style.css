@@ -1,10 +1,17 @@
 :root {
-  --text: #1f2933;
+  /*--text: #1f2933;
   --muted: #667085;
   --link: #1a5fb4;
   --border: #e5e7eb;
   --background: #ffffff;
-  --surface: #f8fafc;
+  --surface: #f8fafc;*/
+
+  --background: #f7f8f5;
+  --surface: #ffffff;
+  --text: #1f2933;
+  --muted: #667085;
+  --link: #1f5f8b;
+  --border: #d9ded7;
 }
 
 * {
