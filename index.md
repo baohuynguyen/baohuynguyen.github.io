@@ -10,11 +10,11 @@ title: About
 
   <div>
     <p class="meta">
-      Lecturer <br>
+      Lecturer, PhD in Electrical Engineering <br>
       Control Technique and Innovation Lab. for Electric Vehicles (CTI Lab4EV) <br>
       Department of Automation Engineering <br>
       School of Electrical and Electronic Engineering <br>
-      Hanoi University of Science and Technology (HUST)
+      Hanoi University of Science and Technology (HUST), Hanoi, Vietnam
     </p>
 
     <p>
@@ -36,17 +36,9 @@ title: About
 ## Recent News
 
 <ul class="news-list">
-  <li><strong>May 2026:</strong> I launched my academic website.</li>
-  <li><strong>April 2026:</strong> Add your recent academic update here.</li>
+  <li><strong>April 2026:</strong> I have joined the Editorial Board of the IEEE Vehicular Technology Magazine as an <a href="https://vtsociety.org/position/associate-editor-automotive-electronics" target="_blank" rel="noopener">Associate Editor</a>. I will be contributing to the Automotive Electronics track.</li>
+  
+  <li><strong>April 2026:</strong> I have been a Member of the Vehicle Power and Propulsion Technical Committee (VPP TechCom) of IEEE Vehicular Technology Society (IEEE VTS).</li>
+
 </ul>
 
-## Selected Publications
-
-<ul class="publication-list">
-  <li>
-    <span class="pub-title">Your Paper Title</span><br>
-    Your Name, Coauthor Name<br>
-    <span class="pub-venue">Conference or Journal Name, 2026</span><br>
-    <a href="#">PDF</a> / <a href="#">Code</a> / <a href="#">BibTeX</a>
-  </li>
-</ul>
