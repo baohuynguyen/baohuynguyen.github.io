@@ -114,3 +114,11 @@ I use control engineering, optimal control, sliding mode control, adaptive metho
     Vietnam State-granted project KC.03.08/11-15, 2011-2015
   </li>
 </ul>
+
+<hr>
+
+Focusing on targets. Many times failed. But at least we tried.
+
+<p style="text-align: center;">
+<img src="/assets/img/Targets.jpg" alt="Activities banner" style="width:70%; height:auto;">
+</p>
