@@ -111,6 +111,14 @@ a {
   margin-top: 0;
 }
 
+.profile-info {
+  padding-top: 0;
+}
+
+.profile-info > :first-child {
+  margin-top: 0;
+}
+
 .news-list li,
 .publication-list li {
   margin-bottom: 1rem;
