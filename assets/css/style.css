@@ -96,6 +96,7 @@ a {
   grid-template-columns: 180px 1fr;
   gap: 32px;
   align-items: start;
+  margin-top: 0;
 }
 
 .profile img {
@@ -107,6 +108,7 @@ a {
 
 .meta {
   color: var(--muted);
+  margin-top: 0;
 }
 
 .news-list li,
