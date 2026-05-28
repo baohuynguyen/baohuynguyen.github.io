@@ -18,7 +18,7 @@ title: About
     </p>
 
     <p>
-      I work at the intersection of <strong>academic research, industrial R&D, and consultancy</strong>, specializing in <strong>transportation electrification</strong> and <strong>power systems</strong> with <strong>inverter-based resources</strong>. My expertise lies in modeling, control, and energy management of electric vehicles and modern power systems—particularly those with high penetration of power electronics.
+      I work at the intersection of <strong>academic research, industrial R&D, and consultancy</strong>, specializing in <strong>transportation electrification</strong> and <strong>power systems</strong> with <strong>inverter-based resources</strong>. My expertise lies in modeling, control, and energy management of electric vehicles and modern power systems—particularly those with <strong>high penetration of power electronics</strong>.
     </p>
     <p>
     Beyond publishing in international peer-reviewed journals and conferences, I have led and contributed to R&D and consultancy projects with organizations such as the UNDP, World Bank, EVN (Vietnam Electricity), and ATS (Applied Technical Systems JSC). These collaborations have focused on practical, scalable solutions for energy transition and grid modernization.
