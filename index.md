@@ -42,7 +42,7 @@ title: About
 
 </ul>
 
-##
+<hr>
 
 Just to note one of the happiest moments of my life.
 
