@@ -107,7 +107,8 @@ a {
 }
 
 .meta {
-  color: var(--muted);
+  /*color: var(--muted);*/
+  color: #3f4f63
   margin-top: 0;
 }
 
