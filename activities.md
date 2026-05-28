@@ -19,3 +19,6 @@ permalink: /activities/
 ## Social Activities
 
 - 2020 - present: Organization of Vietnam Summer School of Science (VSSS) - Tham gia tổ chức <a href="https://truonghekhoahoc.com/" target="_blank" rel="noopener">Trường hè Khoa học Việt Nam</a> (<a href="https://www.facebook.com/truongkhoahocvietnam" target="_blank" rel="noopener">VSSS Facebook Page</a>)
+
+
+<img src="/assets/images/truonghe-2025-00.jpg" alt="Activities banner" style="width:100%; height:auto;">
