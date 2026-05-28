@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Teaching
 
-You will find the lectures' materials (slides) below. Yet the photo is just to say I'm more comfortable with the traditional style of chalk and blackboard. Yes, not pen on whiteboard. 
+You will find the lectures' materials (slides) below. The photo is just to say I'm more comfortable with the traditional style of chalk and blackboard. Yes, not pen on whiteboard. 
 
 <img src="/assets/img/blackboard.jpg" alt="Activities banner" style="width:100%; height:auto;">
 
