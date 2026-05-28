@@ -42,11 +42,13 @@ title: About
 
 </ul>
 
-#
+##
 
 Just to note one of the happiest moments of my life.
 
+<p style="text-align: center;">
 <img src="/assets/img/coffeeQuyNhon.jpg" alt="Activities banner" style="width:75%; height:auto;">
+</p>
 
 <p style="text-align: center;">
   "Xin chào nhau giữa con đường <br>
