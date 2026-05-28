@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# Bảo-Huy NGUYỄN
+# NGUYỄN Bảo-Huy
 
 <div class="profile">
   <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Bảo-Huy Nguyễn">
@@ -47,9 +47,7 @@ Just to note one of the happiest moments of my life.
 <img src="/assets/img/coffeeQuyNhon.jpg" alt="Activities banner" style="width:100%; height:auto;">
 
 <p style="text-align: center;">
-  "Xin chào nhau giữa con đường
-  
-Mùa xuân phía trước, miên trường phía sau"
-
+  "Xin chào nhau giữa con đường <br>
+Mùa xuân phía trước, miên trường phía sau" <br>
 Bùi Giáng
 </p>
