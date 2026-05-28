@@ -22,3 +22,10 @@ Mã học phần: EE2021
     </a>
   </li>
 </ul>
+
+<iframe
+  src="{{ '/assets/files/teaching/Baigiang_LTM1_BHN.pdf' | relative_url }}"
+  width="100%"
+  height="700px"
+  style="border: 1px solid #d9ded7; border-radius: 6px;">
+</iframe>
