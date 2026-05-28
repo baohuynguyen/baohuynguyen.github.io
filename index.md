@@ -29,6 +29,7 @@ title: About
       IEEE email: <a href="mailto:baohuy.nguyen@ieee.org">baohuy.nguyen@ieee.org</a><br>
       Google Scholar: <a href="https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en" target="_blank" rel="noopener">https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en</a><br>
       LinkedIn: <a href="https://www.linkedin.com/in/nguyenbaohuy/" target="_blank" rel="noopener">https://www.linkedin.com/in/nguyenbaohuy/</a>
+      CTI Lab4EV: <a href="https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab" target="_blank" rel="noopener">https://research.hust.edu.vn/seee-lab-control-technique-and-innovation-lab</a>
     </p>
   </div>
 </div>
