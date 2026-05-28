@@ -5,7 +5,7 @@ title: About
 
 # Bảo-Huy NGUYỄN
 
-<div class="profile-info">
+<div class="profile">
   <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Bảo-Huy Nguyễn">
 
   <div>
