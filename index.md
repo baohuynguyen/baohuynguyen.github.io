@@ -33,7 +33,7 @@ title: About
   </div>
 </div>
 
-## Highlight: Always call for Students
+## Highlight: Always call for students
 
 (In Vietnamese) CTI Lab4EV luôn có nhu cầu tuyển sinh viên làm nghiên cứu khoa học. Ứng viên liên hệ qua email hoặc MS Teams.
 
