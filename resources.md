@@ -22,3 +22,11 @@ This page collects simulation files, examples, templates, and other resources.
   </li>
   
 </ul>
+
+<hr>
+
+<p style="text-align: center;">
+<img src="/assets/img/Bookshell.jpg" alt="Activities banner" style="width:70%; height:auto;">
+</p>
+
+
