@@ -10,7 +10,7 @@ permalink: /teaching/
 
 ### Lý thuyết Mạch điện 1
 
-(In Vietnamese) Circuit Theory 1: Steady-State Analysis of Linear Circuit
+(In Vietnamese) Circuit Theory 1: Steady-State Analysis of Linear Circuit <br>
 Mã học phần: EE2021 
 
 #### Bài giảng
