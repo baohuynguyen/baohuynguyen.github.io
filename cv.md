@@ -9,6 +9,6 @@ permalink: /cv/
 <iframe
   src="{{ '/assets/files/BaoHuyCV.pdf' | relative_url }}"
   width="100%"
-  height="1600px"
+  height="1200px"
   style="border: 1px solid #d9ded7; border-radius: 6px;">
 </iframe>
