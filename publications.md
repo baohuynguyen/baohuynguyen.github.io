@@ -8,6 +8,8 @@ permalink: /publications/
 
 <p><em>(*) indicates corresponding author.</em></p>
 
+For more updated, please see my <a href="https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a><br>
+
 ### Book Chapters
 
 #### 2022
