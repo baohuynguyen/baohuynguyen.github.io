@@ -22,3 +22,7 @@ permalink: /activities/
 
 
 <img src="/assets/img/truonghe-2025-00.jpg" alt="Activities banner" style="width:100%; height:auto;">
+
+I took this photo on the flight from Paris to Hanoi in 2026. The plane was in Hanoi's sky. With a little bit of optimism, I see the dawn as "the new day of my home country".
+
+<img src="/assets/img/dawn.jpg" alt="Activities banner" style="width:100%; height:auto;">
