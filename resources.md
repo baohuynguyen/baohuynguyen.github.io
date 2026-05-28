@@ -13,7 +13,7 @@ This page collects simulation files, examples, templates, and other resources.
 <ul class="resource-list">
   <li>
     <strong>Matlab plot examples</strong><br>
-    Matlab plot examples of: <br>
+    Matlab plot examples, can be used as templates for report, paper, thesis writing: <br>
     - Time evolutions (timeseries) plot, e.g., battery SoC varies with time <br>
     - Fuel consumption map of an internal combustion engine (ICE) <br>
     - Efficiency map of an electrical machine <br>
