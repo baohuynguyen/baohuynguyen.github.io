@@ -11,3 +11,10 @@ permalink: /news/
   <li><strong>April 2026:</strong> I have been a Member of the Vehicle Power and Propulsion Technical Committee (VPP TechCom) of IEEE Vehicular Technology Society (IEEE VTS).</li>
 </ul>
 
+<hr>
+
+Greatest news: Love Is All Around
+
+<p style="text-align: center;">
+<img src="/assets/img/FlowerCoffee.jpg" alt="Activities banner" style="width:70%; height:auto;">
+</p>
