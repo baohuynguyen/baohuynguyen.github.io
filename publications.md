@@ -4,30 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
-## 2026
-
-<ul class="publication-list">
-  <li>
-    <span class="pub-title">Your Paper Title</span><br>
-    Your Name, Coauthor Name, Coauthor Name<br>
-    <span class="pub-venue">Conference or Journal Name, 2026</span><br>
-    <a href="#">PDF</a> / <a href="#">Code</a> / <a href="#">BibTeX</a>
-  </li>
-</ul>
-
-## 2025
-
-<ul class="publication-list">
-  <li>
-    <span class="pub-title">Another Paper Title</span><br>
-    Your Name, Coauthor Name<br>
-    <span class="pub-venue">Journal or Workshop Name, 2025</span><br>
-    <a href="#">PDF</a>
-  </li>
-</ul>
-
 ## Publications
 
 <p><em>(*) indicates corresponding author.</em></p>
@@ -92,24 +68,24 @@ permalink: /publications/
 
 <ul class="publication-list">
   <li>Hoai-Linh T. Nguyen, <strong>Bảo-Huy Nguyễn(*)</strong>, Thanh Vo-Duy(*), and João Pedro F. Trovão, "A Comparative Study of Adaptive Filtering Strategies for Hybrid Energy Storage Systems in Electric Vehicles," <em>Energies</em>, vol. 14, no. 12, p. 3373, 2021. (SCIE, Q2)</li>
-  <li>Bảo-Huy Nguyễn, Thanh Vo-Duy, Carlos Henggeler Antunes, and João Pedro F. Trovão(*), "Multi-objective benchmark for energy management of dual-source electric vehicles: An optimal control approach," <em>Energy</em>, vol. 23, p. 119857, 2021. (SCIE, Q1)</li>
-  <li>Bảo-Huy Nguyễn, Thanh Vo-Duy, Minh C. Ta, and João Pedro F. Trovão(*), "Optimal Energy Management of Hybrid Storage Systems Using an Alternative Approach of Pontryagin's Minimum Principle," <em>IEEE Transactions on Transportation Electrification</em>, vol. 7, no. 4, pp. 2224-2237, 2021. (SCIE, Q1)</li>
-  <li>Marouane Adnane, Bảo-Huy Nguyễn, Ahmed Khoumsi, and João Pedro F. Trovão(*), "Driving Mode Predictor-based Real-Time Energy Management for Dual-Source Electric Vehicle," <em>IEEE Transactions on Transportation Electrification</em>, vol. 7, no. 3, pp. 1173-1185, 2021. (SCIE, Q1)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, Thanh Vo-Duy, Carlos Henggeler Antunes, and João Pedro F. Trovão(*), "Multi-objective benchmark for energy management of dual-source electric vehicles: An optimal control approach," <em>Energy</em>, vol. 23, p. 119857, 2021. (SCIE, Q1)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, Thanh Vo-Duy, Minh C. Ta, and João Pedro F. Trovão(*), "Optimal Energy Management of Hybrid Storage Systems Using an Alternative Approach of Pontryagin's Minimum Principle," <em>IEEE Transactions on Transportation Electrification</em>, vol. 7, no. 4, pp. 2224-2237, 2021. (SCIE, Q1)</li>
+  <li>Marouane Adnane, <strong>Bảo-Huy Nguyễn</strong>, Ahmed Khoumsi, and João Pedro F. Trovão(*), "Driving Mode Predictor-based Real-Time Energy Management for Dual-Source Electric Vehicle," <em>IEEE Transactions on Transportation Electrification</em>, vol. 7, no. 3, pp. 1173-1185, 2021. (SCIE, Q1)</li>
 </ul>
 
 #### 2020
 
 <ul class="publication-list">
-  <li>Thanh Vo-Duy(*), Minh C. Ta, Bảo-Huy Nguyễn, and João Pedro F. Trovão, "Experimental Platform for Evaluation of On-Board Real-Time Motion Controllers for Electric Vehicles," <em>Energies</em>, vol. 13, no. 23, p. 6448, 2020. (SCIE, Q2)</li>
-  <li>Bảo-Huy Nguyễn, João Pedro F. Trovão(*), Ronan German, and Alain Bouscayrol, "Real-time energy management of parallel hybrid electric vehicles using linear quadratic regulation," <em>Energies</em>, vol. 13, no. 21, p. 5538, 2020. (SCIE, Q2)</li>
-  <li>Chi T. P. Nguyen, Bảo-Huy Nguyễn, João Pedro F. Trovão(*), and Minh C. Ta, "Effect of battery voltage variation on electric vehicle performance driven by induction machine with optimal flux-weakening strategy," <em>IET Electrical Systems in Transportation</em>, vol. 10, no. 4, pp. 351-359, 2020. (SCIE, Q2)</li>
-  <li>Pascal Messier, Bảo-Huy Nguyễn, Felix-A LeBel, and João Pedro F. Trovão(*), "Disturbance observer-based state-of-charge estimation for Li-ion battery used in light electric vehicles," <em>Journal of Energy Storage</em>, vol. 27, p. 101144, 2020. (SCIE, Q1)</li>
+  <li>Thanh Vo-Duy(*), Minh C. Ta, <strong>Bảo-Huy Nguyễn</strong>, and João Pedro F. Trovão, "Experimental Platform for Evaluation of On-Board Real-Time Motion Controllers for Electric Vehicles," <em>Energies</em>, vol. 13, no. 23, p. 6448, 2020. (SCIE, Q2)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão(*), Ronan German, and Alain Bouscayrol, "Real-time energy management of parallel hybrid electric vehicles using linear quadratic regulation," <em>Energies</em>, vol. 13, no. 21, p. 5538, 2020. (SCIE, Q2)</li>
+  <li>Chi T. P. Nguyen, <strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão(*), and Minh C. Ta, "Effect of battery voltage variation on electric vehicle performance driven by induction machine with optimal flux-weakening strategy," <em>IET Electrical Systems in Transportation</em>, vol. 10, no. 4, pp. 351-359, 2020. (SCIE, Q2)</li>
+  <li>Pascal Messier, <strong>Bảo-Huy Nguyễn</strong>, Felix-A LeBel, and João Pedro F. Trovão(*), "Disturbance observer-based state-of-charge estimation for Li-ion battery used in light electric vehicles," <em>Journal of Energy Storage</em>, vol. 27, p. 101144, 2020. (SCIE, Q1)</li>
 </ul>
 
 #### 2019
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn, Ronan German(*), João Pedro F. Trovão, and Alain Bouscayrol, "Real-Time Energy Management of Battery/Supercapacitor Electric Vehicles Based on an Adaptation of Pontryagin's Minimum Principle," <em>IEEE Transactions on Vehicular Technology</em>, vol. 68, no. 1, pp. 203-212, 2019. (SCIE, Q1)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, Ronan German(*), João Pedro F. Trovão, and Alain Bouscayrol, "Real-Time Energy Management of Battery/Supercapacitor Electric Vehicles Based on an Adaptation of Pontryagin's Minimum Principle," <em>IEEE Transactions on Vehicular Technology</em>, vol. 68, no. 1, pp. 203-212, 2019. (SCIE, Q1)</li>
 </ul>
 
 ### International Conferences
@@ -134,61 +110,61 @@ permalink: /publications/
 
 <ul class="publication-list">
   <li>Quang-Manh Hoang, <strong>Bảo-Huy Nguyễn(*)</strong>, Thanh Vo-Duy, Minh C. Ta, and João Pedro F. Trovão, "Active Power Filter DC Voltage Control Based on Capacitor Energetic Model," in <em>11th International Conference on Control, Automation and Information Sciences (ICCAIS)</em>, Nancy, France, 2022. (Scopus)</li>
-  <li>Khanh-Linh Dang, Bảo-Huy Nguyễn, Thanh Vo-Duy(*), Minh C. Ta, and João Pedro F. Trovão, "Sliding Mode Solution for Rotor Flux Control and Estimation of Induction Motors Using Energetic Macroscopic Representation," in <em>11th International Conference on Control, Automation and Information Sciences (ICCAIS)</em>, Nancy, France, 2022. (Scopus)</li>
+  <li>Khanh-Linh Dang, <strong>Bảo-Huy Nguyễn</strong>, Thanh Vo-Duy(*), Minh C. Ta, and João Pedro F. Trovão, "Sliding Mode Solution for Rotor Flux Control and Estimation of Induction Motors Using Energetic Macroscopic Representation," in <em>11th International Conference on Control, Automation and Information Sciences (ICCAIS)</em>, Nancy, France, 2022. (Scopus)</li>
   <li>Hai-Nam Nguyen, <strong>Bảo-Huy Nguyễn(*)</strong>, Thanh Vo-Duy, Minh C. Ta, and João Pedro F. Trovão, "Decoupled Average Model-based Sliding Mode Current Control of LC-filtered Inverters in Rotating Frame," in <em>ElectrIMACS 2022</em>, Nancy, France, 2022. (Scopus)</li>
 </ul>
 
 #### 2021
 
 <ul class="publication-list">
-  <li>Hoai-Linh T. Nguyen, Son Nguyen-Van, Tri Xuan Hoang, Thanh Vo-Duy(*), Bảo-Huy Nguyễn, and Minh C. Ta, "Optimal Energy Management of a Dual-motor Electric Vehicle using Dynamic Programming," in <em>2021 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Gijon, Spain, 2021. (Scopus)</li>
+  <li>Hoai-Linh T. Nguyen, Son Nguyen-Van, Tri Xuan Hoang, Thanh Vo-Duy(*), <strong>Bảo-Huy Nguyễn</strong>, and Minh C. Ta, "Optimal Energy Management of a Dual-motor Electric Vehicle using Dynamic Programming," in <em>2021 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Gijon, Spain, 2021. (Scopus)</li>
 </ul>
 
 #### 2020
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn, João Pedro F. Trovão, Samir Jemei, Loic Boulon, and Alain Bouscayrol, "IEEE VTS Motor Vehicles Challenge 2021 - Energy Management of A Dual-Motor All-Wheel Drive Electric Vehicle," in <em>2020 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Gijon, Spain, 2020. (Scopus)</li>
-  <li>Thanh Vo-Duy, Bảo-Huy Nguyễn, Minh C. Ta, João P. Trovão, and N. H. P. Nguyen, "Different Voltage and Current Control Schemes for Multi-pack Battery of Electric Scooters," in <em>2020 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Gijon, Spain, 2020. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão, Samir Jemei, Loic Boulon, and Alain Bouscayrol, "IEEE VTS Motor Vehicles Challenge 2021 - Energy Management of A Dual-Motor All-Wheel Drive Electric Vehicle," in <em>2020 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Gijon, Spain, 2020. (Scopus)</li>
+  <li>Thanh Vo-Duy, <strong>Bảo-Huy Nguyễn</strong>, Minh C. Ta, João P. Trovão, and N. H. P. Nguyen, "Different Voltage and Current Control Schemes for Multi-pack Battery of Electric Scooters," in <em>2020 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Gijon, Spain, 2020. (Scopus)</li>
 </ul>
 
 #### 2019
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "Impact of Supercapacitors on Fuel Consumption and Battery Current of a Parallel Hybrid Truck," in <em>2019 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hanoi, Vietnam, 2019. (Scopus)</li>
-  <li>Chi T. P. Nguyen, João Pedro F. Trovão, Bảo-Huy Nguyễn, and Minh C. Ta, "Powertrain analysis of an all-wheel-drive off-road electric vehicle," in <em>2019 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hanoi, Vietnam, 2019. (Scopus)</li>
-  <li>Chi T. P. Nguyen, Bảo-Huy Nguyễn, João Pedro F. Trovão, and Minh C. Ta, "Impact of battery temperature on motor flux weakening operations in electric vehicles," in <em>2019 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hanoi, Vietnam, 2019. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "Impact of Supercapacitors on Fuel Consumption and Battery Current of a Parallel Hybrid Truck," in <em>2019 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hanoi, Vietnam, 2019. (Scopus)</li>
+  <li>Chi T. P. Nguyen, João Pedro F. Trovão, <strong>Bảo-Huy Nguyễn</strong>, and Minh C. Ta, "Powertrain analysis of an all-wheel-drive off-road electric vehicle," in <em>2019 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hanoi, Vietnam, 2019. (Scopus)</li>
+  <li>Chi T. P. Nguyen, <strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão, and Minh C. Ta, "Impact of battery temperature on motor flux weakening operations in electric vehicles," in <em>2019 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hanoi, Vietnam, 2019. (Scopus)</li>
 </ul>
 
 #### 2018
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn, Ronan German, Alain Bouscayrol, and João Pedro F. Trovão, "Bi-level Optimal Energy Management of a Hybrid Truck Supplied by Batteries and Supercapacitors," in <em>2018 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Chicago, USA, 2018. (Scopus)</li>
-  <li>Bảo-Huy Nguyễn, João Pedro F. Trovão, Ronan German, Alain Bouscayrol, and Yves Goulet, "Optimal Energy Management of a Parallel Hybrid Truck for Fuel Consumption Comparative Study," in <em>IEEE 87th Vehicular Technology Conference: VTC2018-Spring</em>, Porto, Portugal, 2018. (Scopus)</li>
-  <li>Bảo-Huy Nguyễn, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "Merging Control of a Hybrid Energy Storage System using Battery/Supercapacitor for Electric Vehicle Application," in <em>19th IEEE International Conference on Industrial Technology (IEEE-ICIT'17)</em>, Lyon, France, 2018, pp. 2066-2071. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, Ronan German, Alain Bouscayrol, and João Pedro F. Trovão, "Bi-level Optimal Energy Management of a Hybrid Truck Supplied by Batteries and Supercapacitors," in <em>2018 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Chicago, USA, 2018. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão, Ronan German, Alain Bouscayrol, and Yves Goulet, "Optimal Energy Management of a Parallel Hybrid Truck for Fuel Consumption Comparative Study," in <em>IEEE 87th Vehicular Technology Conference: VTC2018-Spring</em>, Porto, Portugal, 2018. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "Merging Control of a Hybrid Energy Storage System using Battery/Supercapacitor for Electric Vehicle Application," in <em>19th IEEE International Conference on Industrial Technology (IEEE-ICIT'17)</em>, Lyon, France, 2018, pp. 2066-2071. (Scopus)</li>
 </ul>
 
 #### 2017
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "An Optimal Control-Based Strategy for Energy Management of Electric Vehicles using Battery/Supercapacitor," in <em>2017 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Belfort, France, 2017. (Scopus)</li>
-  <li>Bảo-Huy Nguyễn, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "Energy management of hybrid energy storage systems for electric vehicles: A multi-objective approach," in <em>ElectrIMACS 2017</em>, Toulouse, France, 2017.</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "An Optimal Control-Based Strategy for Energy Management of Electric Vehicles using Battery/Supercapacitor," in <em>2017 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Belfort, France, 2017. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, João Pedro F. Trovão, Ronan German, and Alain Bouscayrol, "Energy management of hybrid energy storage systems for electric vehicles: A multi-objective approach," in <em>ElectrIMACS 2017</em>, Toulouse, France, 2017.</li>
 </ul>
 
 #### 2016
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn, Ronan German, João Pedro F. Trovão, and Alain Bouscayrol, "Improved Voltage Limitation Method of Supercapacitors in Electric Vehicle Applications," in <em>2016 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hangzhou, China, 2016. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, Ronan German, João Pedro F. Trovão, and Alain Bouscayrol, "Improved Voltage Limitation Method of Supercapacitors in Electric Vehicle Applications," in <em>2016 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Hangzhou, China, 2016. (Scopus)</li>
 </ul>
 
 #### 2015
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn, Han V. Do, and Minh C. Ta, "High Performance Current Control of IPMSM for Electric Vehicles Drives Using Disturbance Observer," in <em>2015 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Montreal, QC, Canada, 2015. (Scopus)</li>
-  <li>Bảo-Huy Nguyễn, Dzung Nguyen, Thanh Vo-Duy, and Minh C. Ta, "An EMR of Tire-Road Interaction based-on Magic Formula for Modeling of Electric Vehicles," in <em>2015 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Montreal, QC, Canada, 2015. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, Han V. Do, and Minh C. Ta, "High Performance Current Control of IPMSM for Electric Vehicles Drives Using Disturbance Observer," in <em>2015 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Montreal, QC, Canada, 2015. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong>, Dzung Nguyen, Thanh Vo-Duy, and Minh C. Ta, "An EMR of Tire-Road Interaction based-on Magic Formula for Modeling of Electric Vehicles," in <em>2015 IEEE Vehicle Power and Propulsion Conference (VPPC)</em>, Montreal, QC, Canada, 2015. (Scopus)</li>
 </ul>
 
 #### 2011
 
 <ul class="publication-list">
-  <li>Bảo-Huy Nguyễn and Cao-Minh Ta, "Finite element analysis, modeling and torque distribution control for switched reluctance motors with high non-linear inductance characteristics," in <em>IEEE International Electric Machines and Drives Conference (IEEE-IEMDC'11)</em>, Niagara Falls, ON, Canada, 2011, pp. 693-698. (Scopus)</li>
+  <li><strong>Bảo-Huy Nguyễn</strong> and Cao-Minh Ta, "Finite element analysis, modeling and torque distribution control for switched reluctance motors with high non-linear inductance characteristics," in <em>IEEE International Electric Machines and Drives Conference (IEEE-IEMDC'11)</em>, Niagara Falls, ON, Canada, 2011, pp. 693-698. (Scopus)</li>
 </ul>
