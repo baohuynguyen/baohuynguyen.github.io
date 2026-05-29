@@ -42,12 +42,14 @@ Across these research themes, advanced modeling and control engineering provides
 
 My research combines:
 
-<li>control-oriented modeling, energetic system representation, and multi-domain dynamic modeling;</li>
-<li>optimal control, Dynamic Programming, Pontryagin’s Minimum Principle, and model predictive control;</li>
-<li>nonlinear control, sliding-mode control, adaptive control, and learning-assisted control;
-small-signal stability analysis, frequency-domain interpretation, and dynamic performance assessment;</li>
-<li>real-time simulation, hardware-in-the-loop validation, and experimental benchmarking;
-practical collaboration with industry, utilities, international organizations, and public-sector stakeholders.</li>
+<ul class="project-list">
+  <li>control-oriented modeling, energetic system representation, and multi-domain dynamic modeling;</li>
+  <li>optimal control, Dynamic Programming, Pontryagin’s Minimum Principle, and model predictive control;</li>
+  <li>nonlinear control, sliding-mode control, adaptive control, and learning-assisted control;
+  small-signal stability analysis, frequency-domain interpretation, and dynamic performance assessment;</li>
+  <li>real-time simulation, hardware-in-the-loop validation, and experimental benchmarking;
+  practical collaboration with industry, utilities, international organizations, and public-sector stakeholders.</li>
+</ul>
 
 This integrated perspective allows advanced modeling, control design, optimization, stability analysis, and experimental validation to be applied coherently across electrified transportation, hybrid energy storage systems, inverter-based power systems, and digital simulation platforms.
 
