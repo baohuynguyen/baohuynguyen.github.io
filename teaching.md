@@ -12,7 +12,7 @@ You will find the lectures' materials (slides) below. The photo is just to say I
 
 ## Lý thuyết Mạch điện 1
 
-(In Vietnamese) Circuit Theory 1: Steady-State Analysis of Linear Circuit
+(In Vietnamese) Circuit Theory 1: Steady-state analysis of linear circuit
 
 #### Thông tin môn học
 
@@ -41,7 +41,7 @@ Nội dung: Mạch điện tuyến tính ở chế độ xác lập
 
 ## Lý thuyết Mạch điện 2
 
-(In Vietnamese) Circuit Theory 2: Steady-State and Transient Analysis of Nonlinear Circuit
+(In Vietnamese) Circuit Theory 2: Transient analysis of linear circuit, Nonlinear circuit in steady-state and transient modes, Transmission line
 
 #### Thông tin môn học
 
@@ -70,7 +70,7 @@ Nội dung: Mạch điện tuyến tính ở chế độ quá độ, mạch đi�
 
 ## Lý thuyết Trường điện từ
 
-(In Vietnamese) Electromagnetics
+(In Vietnamese) Electromagnetic Theory
 
 #### Thông tin môn học
 
