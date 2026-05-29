@@ -6,33 +6,50 @@ permalink: /research/
 
 # Research
 
-## Research Interests
+## Research Vision
 
-My research focuses on modeling, control, and optimization of electrified transportation and modern power systems. I am particularly interested in the interaction between power electronics, electric vehicles, renewable energy resources, and grid operation.
+My research is positioned at the intersection of control engineering, electrified transportation, power electronics, and modern power systems. I focus on developing control-oriented models, advanced control strategies, optimal energy management algorithms, and simulation/HIL platforms for energy systems with high penetration of power electronics, electric vehicles, renewable energy resources, and distributed energy storage.
 
-### Electric and Hybrid Vehicles
+A central objective of my work is to use control engineering as a unifying methodological foundation to address the modeling, optimization, stability, and real-time implementation challenges of the energy transition. My research activities are organized around four flagship themes.
 
-I work on modeling, control, and energy management for electric and hybrid vehicles, including dual-source and multi-motor powertrains, battery/supercapacitor hybrid energy storage systems, and vehicle-level optimization.
+### Control-Oriented Modeling and Control of Electrified Transportation Systems
 
-### Power Electronics and Drives
+This research theme focuses on the control-oriented modeling, dynamic analysis, and control design of electric and hybrid vehicles. Particular attention is paid to multi-motor powertrains, traction motor drives, inverter-fed propulsion systems, tire-road interaction, vehicle longitudinal dynamics, and high-performance control architectures for electrified mobility.
 
-My research includes control of power converters, electric motor drives, LC-filtered inverters, active power filters, and inverter-based systems for transportation and grid applications.
+The long-term goal is to develop physically meaningful models and control strategies that improve vehicle efficiency, drivability, stability, safety, and real-time implementability under realistic operating conditions.
 
-### Transportation Electrification
+### Optimal Control and Energy Management for Hybrid Energy Storage Systems
 
-I study technical and planning problems related to transport electrification, including electric buses, charging infrastructure, and the impact of large-scale electric vehicle integration on distribution networks.
+This research theme addresses optimal control and real-time energy management for electric vehicles, hybrid electric vehicles, microgrids, and energy systems equipped with multiple energy sources. I am particularly interested in battery/supercapacitor hybrid energy storage systems, dual-source electric vehicles, Pontryagin’s minimum principle, dynamic programming, model predictive control, sliding-mode energy management, and learning-assisted prediction.
 
-### Inverter-Based Power Systems
+The objective is to develop energy management strategies that are not only mathematically optimal or near-optimal, but also implementable in embedded controllers and robust under uncertain operating conditions.
 
-I am interested in grid-following and grid-forming inverter control, small-signal stability analysis, frequency response, inertia estimation, and stability enhancement in power systems with high penetration of renewable energy resources.
+### Control and Stability of Inverter-Based Power Systems
 
-### Renewable Energy and Energy Storage
+This research theme focuses on the modeling, control, and stability analysis of modern power systems with high penetration of inverter-based resources, including renewable energy, battery energy storage systems, electric vehicles, and power-electronics-interfaced loads. My work covers grid-following and grid-forming inverter control, small-signal stability analysis, frequency response, inertia estimation, oscillation source localization, and stability enhancement of power systems dominated by power electronics.
 
-My work covers renewable energy integration, battery energy storage systems, hybrid energy storage systems, and optimal scheduling or operation of power systems with distributed energy resources.
+The main goal is to contribute control engineering methods and analysis tools for future power systems where conventional synchronous machines are increasingly replaced or complemented by inverter-based resources.
 
-### Control Engineering and Optimization
+### Digital Simulation, Hardware-in-the-Loop, and Control Validation Tools for Energy Transition
 
-I use control engineering, optimal control, sliding mode control, adaptive methods, and optimization-based approaches for energy management, power conversion, and system-level decision making.
+This research theme aims to develop simulation, validation, and hardware-in-the-loop methodologies for electrified transportation and modern power systems. It connects energetic macroscopic representation, multi-domain modeling, real-time simulation, reduced-scale experimental platforms, power HIL, and open-source simulation tools.
+
+The long-term ambition is to build transparent, extensible, and reproducible platforms for control design, controller validation, real-time implementation, and experimental benchmarking in electric vehicles, power electronics, energy storage, microgrids, and inverter-based power systems.
+
+### Cross-Cutting Methodology: Advanced Modeling and Control Engineering for Energy Transition
+
+Across these research themes, advanced modeling and control engineering provides the core methodological foundation of my work. The common technical thread is the development of physically meaningful models, control-oriented representations, optimization algorithms, and validation platforms that connect system dynamics with real-time decision making and controller implementation.
+
+My research combines:
+
+<li>control-oriented modeling, energetic system representation, and multi-domain dynamic modeling;</li>
+<li>optimal control, Dynamic Programming, Pontryagin’s Minimum Principle, and model predictive control;</li>
+<li>nonlinear control, sliding-mode control, adaptive control, and learning-assisted control;
+small-signal stability analysis, frequency-domain interpretation, and dynamic performance assessment;</li>
+<li>real-time simulation, hardware-in-the-loop validation, and experimental benchmarking;
+practical collaboration with industry, utilities, international organizations, and public-sector stakeholders.</li>
+
+This integrated perspective allows advanced modeling, control design, optimization, stability analysis, and experimental validation to be applied coherently across electrified transportation, hybrid energy storage systems, inverter-based power systems, and digital simulation platforms.
 
 
 ## Projects
