@@ -36,7 +36,7 @@ title: Home
 
 ## Highlight: Always call for students
 
-Prospective students are welcome. See <a href="https://baohuynguyen.github.io/opportunities/" target="_blank" rel="noopener">Opportunities</a>.
+Prospective students are welcome. See <a href="{{ '/opportunities/' | relative_url }}">Opportunities</a>.
 
 ## Recent News
 
