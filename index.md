@@ -41,6 +41,8 @@ Prospective students are welcome. See <a href="{{ '/opportunities/' | relative_u
 ## Recent News
 
 <ul class="news-list">
+  <li><strong>Aug 2026:</strong> Our review paper, “Comprehensive analysis of dissipating energy flow-based oscillation source locating methods for modern power systems,” has been published in <a href="https://www.sciencedirect.com/science/article/pii/S0378779626011909" target="_blank" rel="noopener">Electric Power Systems Research</a>.</li>
+  
   <li><strong>April 2026:</strong> I have joined the Editorial Board of the IEEE Vehicular Technology Magazine as an <a href="https://vtsociety.org/position/associate-editor-automotive-electronics" target="_blank" rel="noopener">Associate Editor</a>. I will be contributing to the Automotive Electronics track.</li>
   
   <li><strong>April 2026:</strong> I have been a Member of the Vehicle Power and Propulsion Technical Committee (VPP TechCom) of IEEE Vehicular Technology Society (IEEE VTS).</li>
