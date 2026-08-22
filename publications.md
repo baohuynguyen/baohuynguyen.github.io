@@ -29,6 +29,8 @@ For more updated, please see my <a href="https://scholar.google.com/citations?us
 #### 2026
 
 <ul class="publication-list">
+  <li>Phi-Hung Nguyen, Linh Tran, Thanh Vo-Duy, <strong>Bảo-Huy Nguyễn(*)</strong>, "Comprehensive analysis of dissipating energy flow-based oscillation source locating methods for modern power systems," <em>Electric Power Systems Research</em>, vol. 265, p. 113901, 2026. (SCIE, Q1)</li>
+</ul>
   <li>Thi Phuong Chi Nguyen, <strong>Bảo-Huy Nguyễn(*)</strong>, Minh C. Ta, and João Pedro F. Trovão, "Smart Energy Management for Electric Vehicle: A Unified Adaptive Network Approach," <em>IEEE Vehicular Technology Magazine</em>, vol. 21, no. 1, pp. 18-26, 2026. (SCIE, Q1)</li>
 </ul>
 
