@@ -10,9 +10,34 @@ You will find the lectures' materials (slides) below. The photo is just to say I
 
 <img src="/assets/img/blackboard.jpg" alt="Activities banner" style="width:100%; height:auto;">
 
-## Lý thuyết Mạch điện 1
+## Circuit Theory 1
 
-(In Vietnamese) Circuit Theory 1: Steady-state analysis of linear circuit
+#### Course Information
+
+Course ID: EE2021E
+
+Undergraduate course for Electrical Engineering and Automation Engineering at School of Electrical and Electronic Engineering, Hanoi University of Science and Technology
+
+Content: Steady-state analysis of linear circuits
+
+#### Lecture
+
+<ul>
+  <li>
+    <a href="{{ '/assets/files/teaching/Baigiang_LTM1_BHN.pdf' | relative_url }}" target="_blank" rel="noopener">
+      [Download] Slides Circuit Theory 1
+    </a>
+  </li>
+</ul>
+
+<iframe
+  src="{{ '/assets/files/teaching/CircuitTheory1LectureBHN.pdf' | relative_url }}"
+  width="100%"
+  height="700px"
+  style="border: 1px solid #d9ded7; border-radius: 6px;">
+</iframe>
+
+## Lý thuyết Mạch điện 1
 
 #### Thông tin môn học
 
@@ -40,8 +65,6 @@ Nội dung: Mạch điện tuyến tính ở chế độ xác lập
 </iframe>
 
 ## Lý thuyết Mạch điện 2
-
-(In Vietnamese) Circuit Theory 2: Transient analysis of linear circuit, Nonlinear circuit in steady-state and transient modes, Transmission line
 
 #### Thông tin môn học
 
