@@ -16,7 +16,7 @@ You will find the lectures' materials (slides) below. The photo is just to say I
 
 Course ID: EE2021E
 
-Undergraduate course for Electrical Engineering and Automation Engineering at School of Electrical and Electronic Engineering, Hanoi University of Science and Technology
+Undergraduate course for Control and Automation Engineering (EE-E8) at School of Electrical and Electronic Engineering, Hanoi University of Science and Technology
 
 Content: Steady-state analysis of linear circuits
 
@@ -43,7 +43,7 @@ Content: Steady-state analysis of linear circuits
 
 Mã học phần: EE2021
 
-Ngành EE1 (Điện) và EE2 (Điều khiển và Tự động hoá) Trường Điện - Điện tử, ĐH Bách Khoa HN
+Ngành EE1 (Kỹ thuật Điện) và EE2 (Điều khiển và Tự động hoá) Trường Điện - Điện tử, ĐH Bách Khoa HN
 
 Nội dung: Mạch điện tuyến tính ở chế độ xác lập
 
@@ -70,7 +70,7 @@ Nội dung: Mạch điện tuyến tính ở chế độ xác lập
 
 Mã học phần: EE2022 
 
-Ngành EE1 (Điện) và EE2 (Điều khiển và Tự động hoá) Trường Điện - Điện tử, ĐH Bách Khoa HN
+Ngành EE1 (Kỹ thuật Điện) và EE2 (Điều khiển và Tự động hoá) Trường Điện - Điện tử, ĐH Bách Khoa HN
 
 Nội dung: Mạch điện tuyến tính ở chế độ quá độ, mạch điện phi tuyến, và đường dây dài
 
