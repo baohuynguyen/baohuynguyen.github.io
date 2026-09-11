@@ -24,7 +24,7 @@ Content: Steady-state analysis of linear circuits
 
 <ul>
   <li>
-    <a href="{{ '/assets/files/teaching/Baigiang_LTM1_BHN.pdf' | relative_url }}" target="_blank" rel="noopener">
+    <a href="{{ '/assets/files/teaching/CircuitTheory1LectureBHN.pdf' | relative_url }}" target="_blank" rel="noopener">
       [Download] Slides Circuit Theory 1
     </a>
   </li>
