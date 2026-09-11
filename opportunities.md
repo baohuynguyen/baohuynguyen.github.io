@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Opportunities
-permalink: /opportunities/
+title: Join Us
+permalink: /joinus/
 ---
 
-# Opportunities
+# Join Us
 
 (In Vietnamese) CTI Lab4EV luôn có nhu cầu tuyển sinh viên làm nghiên cứu khoa học. Ứng viên liên hệ qua email hoặc MS Teams.
 
