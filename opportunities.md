@@ -33,3 +33,10 @@ permalink: /joinus/
 <li>Có khả năng sử dụng tiếng Anh trong công việc; ước lượng trình độ tương đương IELTS 6.0 trở lên (tuy không yêu cầu chứng chỉ).</li>
 
 <li>Cam kết dành tối thiểu 30% thời gian làm việc tại lab.</li>
+
+### Quyền lợi:
+<li>Làm việc trực tiếp 1-1 với người hướng dẫn: làm việc độc lập, mỗi người một đề tài riêng, không qua cấp trung gian, không đóng vai trò hỗ trợ người khác</li>
+<li>Được học cách làm khoa học đúng nghĩa, tử tế, tạo giá trị thật, vừa có ý nghĩa hàn lâm vừa có khả năng ứng dụng</li>
+<li>Cơ hội công bố khoa học trên các tạp chí và hội nghị quốc tế uy tín hàng đầu thế giới; thông thường sinh viên là tác giả đầu</li>
+<li>Cơ hội tham gia các dự án nghiên cứu R&D với đối tác công nghiệp và nghiên cứu tư vấn do các tổ chức quốc tế điều phối</li>
+<li>Có nhiều cơ hội, được hướng dẫn và hỗ trợ ứng tuyển học bổng thạc sĩ và/hoặc tiến sĩ ở nước ngoài
